@@ -11,6 +11,7 @@ public:
   }
 };
 
+//main function starts here
 int main(){
   GradeBook gb;
   string courseName;
