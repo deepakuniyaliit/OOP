@@ -20,7 +20,7 @@ public:
   int getV2(){
     return v2;
   }
-// private:
+private:
   int v1, v2;
 };
 
@@ -28,5 +28,7 @@ int main(){
   Complex c1(2,3);
   Complex c2(3,4);
   Complex t = c1.addObjects(c2);
-  cout<<t.v1<<"+"<<t.v2<<"i"<<endl;
+  cout<<"C1 Object "<<c1.getV1()<<"+"<<c1.getV2()<<"i"<<endl;
+  cout<<"C2 Object "<<c2.getV1()<<"+"<<c2.getV2()<<"i"<<endl;
+  cout<<"Final Object "<<t.getV1()<<"+"<<t.getV2()<<"i"<<endl;
 }
