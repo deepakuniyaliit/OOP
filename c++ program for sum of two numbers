@@ -1,0 +1,17 @@
+#include <iostream>
+#include <conio.h>
+using namespace std;
+
+int main()
+{
+    int firstNumber, secondNumber, sumOfTwoNumbers;//for hacktober fest
+
+    cout << "Enter two integers: ";
+    cin >> firstNumber >> secondNumber;
+
+    sumOfTwoNumbers = firstNumber + secondNumber;
+
+    cout << firstNumber << " + " << secondNumber << " = " << sumOfTwoNumbers;
+
+    return 0;
+}
