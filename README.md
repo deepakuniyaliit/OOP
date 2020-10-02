@@ -5,12 +5,18 @@ to the Inheritance and other programs are being added on timely basis.
 This course targets the beginners in C++ and that's why it's suggested to watch
 tutorials first and then practice these codes on your system.
 
-You can visit https://www.youtube.com/c/TheEasyConcepts/ for
-watching all the tutorials of C++.
+You can visit https://www.youtube.com/c/TheEasyConcepts/ for watching all the tutorials of C++.
 
 If you wish to learn other programming languages, there is more content on this channel.
-one more information for the welfare of students: https://hacktoberfest.digitalocean.com/profile  ,this is the websites where you can get t-shirts in free;
-steps for getting free t-shirt:
+
+_______________________________________________________________________________________________________
+_______________________________________________________________________________________________________
+
+one more information for the welfare of students: https://hacktoberfest.digitalocean.com/profile,
+this is the websites where you can get t-shirts in free;
+
+Steps for getting free t-shirt:
+
 1.click on the above link or type Hacktoberfest in google.
 2.click on start hacking.
 3.connect your Github account by simply clicking on Auhtorize hacktoberfest.
@@ -21,10 +27,11 @@ steps for getting free t-shirt:
 
 This fest happens every year in october.In 2020 it's happening in 1st of october..
 
+_______________________________________________________________________________________________________
+_______________________________________________________________________________________________________
+
+
 Please do contact me in case of any query.
-
-
-
 
 Deepak Uniyal,
 Assistant Professor, CSE
