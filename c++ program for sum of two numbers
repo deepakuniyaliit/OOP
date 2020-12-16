@@ -1,17 +1,16 @@
 #include <iostream>
-#include <conio.h>
-using namespace std;
-
-int main()
+int main(void)
 {
-    int firstNumber, secondNumber, sumOfTwoNumbers;//for hacktober fest
+    int firstNumber{};
+	int secondNumber{};
+	int sumOfTwoNumbers{};//for hacktober fest
 
-    cout << "Enter two integers: ";
-    cin >> firstNumber >> secondNumber;
+    std::cout << "Enter two integers: ";
+    std::cin >> firstNumber >> secondNumber;
 
     sumOfTwoNumbers = firstNumber + secondNumber;
 
-    cout << firstNumber << " + " << secondNumber << " = " << sumOfTwoNumbers;
+    std::cout << firstNumber << " + " << secondNumber << " = " << sumOfTwoNumbers;
 
     return 0;
 }
