@@ -1,0 +1,15 @@
+
+import re
+
+# String: it will be the input to your program
+def replace_digits(String):
+    # write your code
+    String = re.sub("[^0-9]","",str(String))
+    String = re.sub('\d','#',String)
+    return String # modified string which is after replacing the # with digits
+
+print(replace_digits('a2b3c4'))
+print(replace_digits('234'))
+print(replace_digits('#2a$#b%c%561#'))
+print(replace_digits('abc'))
+        
