@@ -5,7 +5,7 @@ to the Inheritance and other programs are being added on timely basis.
 This course targets the beginners in C++ and that's why it's suggested to watch
 tutorials first and then practice these codes on your own machine.
 
-You can visit https://www.youtube.com/c/TheEasyConcepts/ for watching all the C++ tutorials.
+You can visit [The Easy Concepts](https://www.youtube.com/c/TheEasyConcepts/?sub_confirmation=1) for watching all the C++ tutorials.
 
 If you wish to learn other programming languages, there is more content on this channel.
 
